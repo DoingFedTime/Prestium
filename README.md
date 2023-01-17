@@ -10,11 +10,6 @@ This torrent file is hosted on a seedbox, so there should be NO issues with spee
 
 Please, seed. I will not be paying for the seedbox for a second month! 
 
-If you want a direct link to the ISO you can find it here:
-https://reserves_p31360:bemepepe12@nascar.myseedbox.site/private/Downloads/Prestium-1.2.1-amd64.iso
-
-Dont download it like that though. Grab the torret and share at least what you take. 
-
 The creators name on reddit (and only reddit) is: u/Opicaak
 
 The subreddit for this disto is here: r/prestium
