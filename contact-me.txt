@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+## Get in touch
+
+Mastodon: https://social.tchncs.de/@Opicaak
+Reddit: https://reddit.com/u/Opicaak
+E-mail: ReheatedBurger@protonmail.com
+
+Public PGP key: https://keys.openpgp.org/search?q=reheatedburger@protonmail.com
+Fingerprint: 44BE 6FDE 70FF 2362 4443 82A2 875D 63BD 034D 7CF7
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERL5v3nD/I2JEQ4Kih11jvQNNfPcFAmOWpL4ACgkQh11jvQNN
+fPfkxA//dNN0mdSdZcTOdRK0tEG1gkb88uqmttq3D7B51UXvAOFJUiR5icYooljW
+WUAo1z52JP7Da0RURT4TY7sNVZWOigJ1wXhSB1KRuypIsztXltNjpwDSfHxgjG5V
+JGK/vuUGF/0hnTWGAciYHlU2fbDkWuABTz9ltUd1nVYPddKuo6ngoaEsN3vcLw0D
+tLJa9aRJdbGLfzVvf+iguWRvEeOketB3wIvTxdLdNj9uOzIabTk6SjLqIDpSInzx
+p3gjZkQOmSePQUeKrwZJ+JxD82JLyRyw4ogIXNc0T0FjwD6vv1eaWoiNBfUQ1MhI
+afrbFQlyJbMBdoc2N+OFCVygUJX6ZAaldWsrEdUio7xBFjawNUiXr2ItTmHxccqj
+80RZnKPUKG1/KsNumpOQnelG/hxWUlkTT8xiF8BemQOgIswXYpvqEM7+3GISVVc6
+ovc7vwo2QdDzXvpPVFtCwdAFPeG40gkQKX4SQbOw89g9LApqrqEN0D0V8EOHqdGT
+O+oQV6dOcAwfnVCx2pZqJGD+IEYV5i7s4ya1svEMh38Vz7oEm6op5/k7EUnvVHpv
+dgdtpHCKZpiZJ3GYyNCblPS9oco6EEh67jntaIoFHMk81CSWTWAuTua1fN42y3f7
+dIuPYgD7Cy+/XEw3/Cea0rKSbmJydjyMyNLHDQ3G0zDjzpY7cuU=
+=wslx
+-----END PGP SIGNATURE-----

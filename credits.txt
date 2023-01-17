@@ -1,0 +1,7 @@
+Thanks everyone!
+
+Thetia, helped with firewall configuration,
+Behemoth, helped with browser configuration,
+HamsterFarts, provided useful links, resources and also helped with browser configuration,
+Undisclosed IRC user, provided solution for HexChat's frequent disconnects,
+zzz, suggested improvements with i2pd tunnel configuration

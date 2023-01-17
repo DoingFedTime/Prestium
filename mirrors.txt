@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+## Prestium website URLs
+
+### Clearnet
+prestium.org
+
+### I2P
+b32: ltq7cdddhhgrg6kruj3fyy36tw333y6x2gkxlblt6rekctaetvrq.b32.i2p
+shortened: prestium.i2p; registered at reg.i2p
+
+### Tor
+prestium5umbmax6yrp4hlnigmfnxtgfkytysnnpvpfqeniwh5luyiad.onion
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERL5v3nD/I2JEQ4Kih11jvQNNfPcFAmOWor4ACgkQh11jvQNN
+fPfFDhAAn0xPNnP8MzTETd14QMF1WiMsXZ1soWeD/GEgTKaWmeQHdXFhjiTM5WvX
+nx7rBVQ76d3JpeZCHQlEtXOi8tZy4ag0BCQWnDyE5lsoJMQdIFAKA1J51C8NpUa/
+iCxNzduSe+mUsGX45zxvQWZhzTbkVgUnCiUeIUKmAjW0rm3jMRJ/w1IfkuW4lWA9
+K/AZk5npvfoSGxkE2ZESBy36MK9/R/qpHz91RMmrS5yQ7Re6EQyiptntsNAedYIU
+bdGiyi58xClGqss9lzb5/a1zm0CCDCe18o7znOSPTEktID4Orxcqc7fM8t4DuCOS
+fsz7mmRtxxaTFbtKVg2rVHVzdGMHeR5EB3eXB6mExfyqiRbLj9cY+AkQKen9BHRB
+OacFKPpqvWcynTcEUdaVe0ddEdrhSCrLZeER6zF8WlNS39Ecr2yk2zITOWrUmao2
++HlMAraAOMRC/0oR2V/4StdeB+avnNmaLQ30UxXFfyIsPYviH3bIGhFvKo1p6T4u
+b+JRy7WlwbnE3Vq+r6prvFX0CT97r6YlF8OQTGLHWZ/u8uZH7IazPt0AP3dBatKP
+i9WI4vMrf9vN2s+/tfm/AaRpFAXm6HbHueMAv+EYxCvnblPjYGBAJpcUA5Av0Ihv
+8j6zH/GnOERqyLY10hJwHGndY8fIj4v6d6y17qI+tvktXXOGrwk=
+=fQL4
+-----END PGP SIGNATURE-----
